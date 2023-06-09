@@ -1,0 +1,12 @@
+/* .nav-link{
+    @apply px-6 space-y-6
+} */
+
+
+nav ul li a.active{
+    @apply border-solid border-[1.6px] border-white border-y-0 border-opacity-20 box-content px-3 py-1 rounded-sm
+}
+
+nav ul li a:hover{
+    @apply border-solid border-[1.6px] border-white border-y-0 border-opacity-40 box-content px-3 py-1 rounded-sm
+}
