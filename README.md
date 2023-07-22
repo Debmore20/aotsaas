@@ -6,17 +6,17 @@ The vision of UNX-TITAN, a "SAAS" webapp, is to convert real life portraits and 
 
 ## Stack
 
-React / Next JS
-TypeScript
-Tailwind Css
-Prisma / MySql ddatabse
+React / Next JS; 
+ TypeScript;
+ Tailwind Css;
+ Prisma / MySql ddatabse;
 
 ## API
 
-NextJS - App router
-RESTful
-Zod (for validation)
-React-query
+NextJS - App router;
+ RESTful;
+ Zod (for validation);
+ React-query;
 
 ## UI
 
