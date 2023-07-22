@@ -1,6 +1,6 @@
-###UNX-TITAN
+### UNX-TITAN
 
-##Project
+## Project
 
 The vision of UNX-TITAN, a "SAAS" webapp, is to convert real life portraits and selfies into Titans from the A.O.T series! Join me on the journey of bringing this idea to reality :)
 
